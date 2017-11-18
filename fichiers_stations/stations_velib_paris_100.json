@@ -1,0 +1,1702 @@
+[
+  {
+    "number": 31705,
+    "name": "31705 - CHAMPEAUX (BAGNOLET)",
+    "address": "RUE DES CHAMPEAUX (PRES DE LA GARE ROUTIERE) - 93170 BAGNOLET",
+    "position": {
+      "lat": 48.8645278209514,
+      "lng": 2.416170724425901
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 50,
+    "available_bike_stands": 48,
+    "available_bikes": 2,
+    "last_update": 1508689504000
+  },
+  {
+    "number": 10042,
+    "name": "10042 - POISSONNIÈRE - ENGHIEN",
+    "address": "52 RUE D'ENGHIEN / ANGLE RUE DU FAUBOURG POISSONIERE - 75010 PARIS",
+    "position": {
+      "lat": 48.87242006305313,
+      "lng": 2.348395236282807
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 33,
+    "available_bike_stands": 21,
+    "available_bikes": 12,
+    "last_update": 1508689419000
+  },
+  {
+    "number": 8020,
+    "name": "08020 - METRO ROME",
+    "address": "74 BOULEVARD DES BATIGNOLLES - 75008 PARIS",
+    "position": {
+      "lat": 48.882148945631904,
+      "lng": 2.319860054774211
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 44,
+    "available_bike_stands": 43,
+    "available_bikes": 1,
+    "last_update": 1508689535000
+  },
+  {
+    "number": 35014,
+    "name": "35014 - DE GAULLE (PANTIN)",
+    "address": "139 AVENUE JEAN LOLIVE / MAIL CHARLES DE GAULLE - 93500 PANTIN",
+    "position": {
+      "lat": 48.893268664697416,
+      "lng": 2.412715733388685
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 15,
+    "available_bikes": 3,
+    "last_update": 1508689445000
+  },
+  {
+    "number": 20040,
+    "name": "20040 - PARC DE BELLEVILLE",
+    "address": "57 & 36 RUE JULIEN LACROIX - 75020 PARIS",
+    "position": {
+      "lat": 48.870393671603765,
+      "lng": 2.384222472712587
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 26,
+    "available_bike_stands": 24,
+    "available_bikes": 2,
+    "last_update": 1508689480000
+  },
+  {
+    "number": 28002,
+    "name": "28002 - SOLJENITSYNE (PUTEAUX)",
+    "address": "BOULEVARD ALEXANDRE SOLJENITSYNE - 92800 PUTEAUX",
+    "position": {
+      "lat": 48.884478,
+      "lng": 2.24772065
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 60,
+    "available_bike_stands": 11,
+    "available_bikes": 49,
+    "last_update": 1508689450000
+  },
+  {
+    "number": 15111,
+    "name": "15111 - SERRES",
+    "address": "48 RUE OLIVIER DE SERRES - 75015 PARIS",
+    "position": {
+      "lat": 48.834658862792736,
+      "lng": 2.295789480315903
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 24,
+    "available_bike_stands": 16,
+    "available_bikes": 8,
+    "last_update": 1508689428000
+  },
+  {
+    "number": 12124,
+    "name": "12124 - PYRAMIDE ARTILLERIE",
+    "address": "ROUTE DE L'ARTILLERIE - 75012 PARIS",
+    "position": {
+      "lat": 48.839041145908176,
+      "lng": 2.437655339082955
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 55,
+    "available_bike_stands": 31,
+    "available_bikes": 24,
+    "last_update": 1508689490000
+  },
+  {
+    "number": 9021,
+    "name": "09021 - SAINT GEORGES",
+    "address": "56 RUE SAINT GEORGES - 75009 PARIS",
+    "position": {
+      "lat": 48.877872278317966,
+      "lng": 2.337446804203667
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "last_update": 1508689356000
+  },
+  {
+    "number": 7007,
+    "name": "07007 - MUSÉE D'ORSAY",
+    "address": "62 RUE DE LILLE - 75007 PARIS",
+    "position": {
+      "lat": 48.85971010443503,
+      "lng": 2.325809024625026
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 65,
+    "available_bike_stands": 1,
+    "available_bikes": 64,
+    "last_update": 1508689433000
+  },
+  {
+    "number": 20011,
+    "name": "20011 - PYRÉNÉES-DAGORNO",
+    "address": "103 RUE DES PYRENNEES - 75020 PARIS",
+    "position": {
+      "lat": 48.85550135398888,
+      "lng": 2.405168520639166
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 21,
+    "available_bike_stands": 19,
+    "available_bikes": 2,
+    "last_update": 1508689111000
+  },
+  {
+    "number": 33006,
+    "name": "33006 - KARMAN (AUBERVILLIERS)",
+    "address": "FACE 143 RUE ANDRE KARMAN - 93300 AUBERVILLIERS",
+    "position": {
+      "lat": 48.9101436710038,
+      "lng": 2.38505201824411
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "CLOSED",
+    "contract_name": "Paris",
+    "bike_stands": 29,
+    "available_bike_stands": 0,
+    "available_bikes": 0,
+    "last_update": 1508688941000
+  },
+  {
+    "number": 11029,
+    "name": "11029 - MENILMONTANT OBERKAMPF",
+    "address": "137 BOULEVARD MENILMONTANT - 75011 PARIS",
+    "position": {
+      "lat": 48.8666176586814,
+      "lng": 2.38301344041578
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 40,
+    "available_bike_stands": 31,
+    "available_bikes": 8,
+    "last_update": 1508689394000
+  },
+  {
+    "number": 4020,
+    "name": "04020 - BEAUBOURG PLACE MICHELET",
+    "address": "FACE 27 RUE QUINCAMPOIX - 75004 PARIS",
+    "position": {
+      "lat": 48.86008832610481,
+      "lng": 2.350148335920203
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 0,
+    "available_bikes": 28,
+    "last_update": 1508689073000
+  },
+  {
+    "number": 7012,
+    "name": "07012 - CITE VANEAU",
+    "address": "7 CITE VANEAU - 75007 PARIS",
+    "position": {
+      "lat": 48.854268334051035,
+      "lng": 2.319454010061415
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 36,
+    "available_bike_stands": 9,
+    "available_bikes": 27,
+    "last_update": 1508689340000
+  },
+  {
+    "number": 14113,
+    "name": "14113 - ARAGO 2",
+    "address": "36 RUE DE LA SANTE - 75014 PARIS",
+    "position": {
+      "lat": 48.83512886504287,
+      "lng": 2.34157863455693
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 37,
+    "available_bike_stands": 34,
+    "available_bikes": 3,
+    "last_update": 1508689307000
+  },
+  {
+    "number": 15028,
+    "name": "15028 - DUPLEIX",
+    "address": "54 BOULEVARD DE GRENELLE - 75015 PARIS",
+    "position": {
+      "lat": 48.851396721123486,
+      "lng": 2.291889313228121
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 69,
+    "available_bike_stands": 3,
+    "available_bikes": 66,
+    "last_update": 1508689535000
+  },
+  {
+    "number": 22005,
+    "name": "22005 - DE GAULLE 3 (NEUILLY)",
+    "address": "195 AVENUE CHARLES DE GAULLE - 92200 NEUILLY",
+    "position": {
+      "lat": 48.8842989293728,
+      "lng": 2.26099177209953
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 22,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "last_update": 1508689200000
+  },
+  {
+    "number": 18042,
+    "name": "18042 - PIGALLE GERMAIN PILLON",
+    "address": "FACE 36 BOULEVARD DE CLICHY - 75018 PARIS",
+    "position": {
+      "lat": 48.882728090545086,
+      "lng": 2.336262639016585
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 21,
+    "available_bike_stands": 18,
+    "available_bikes": 2,
+    "last_update": 1508689472000
+  },
+  {
+    "number": 11008,
+    "name": "11008 - FAIDHERBE CHALIGNY",
+    "address": "223 RUE DU FAUBOURG SAINT ANTOINE - 75011 PARIS",
+    "position": {
+      "lat": 48.850379753879935,
+      "lng": 2.38386933547444
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 40,
+    "available_bike_stands": 5,
+    "available_bikes": 33,
+    "last_update": 1508689453000
+  },
+  {
+    "number": 1028,
+    "name": "01028 - BERGER",
+    "address": "FACE AU 41-45 RUE BERGER - 75001 PARIS",
+    "position": {
+      "lat": 48.8622255,
+      "lng": 2.3428337
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 55,
+    "available_bike_stands": 1,
+    "available_bikes": 53,
+    "last_update": 1508689536000
+  },
+  {
+    "number": 19038,
+    "name": "19038 - JOURDAIN",
+    "address": "9 RUE LASSUS - 75019 PARIS",
+    "position": {
+      "lat": 48.8755503947562,
+      "lng": 2.389038160847546
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 19,
+    "available_bike_stands": 19,
+    "available_bikes": 0,
+    "last_update": 1508689058000
+  },
+  {
+    "number": 15118,
+    "name": "15118 - PLACE BIENVENUE",
+    "address": "11 RUE DE L'ARRIVEE - 75015 PARIS",
+    "position": {
+      "lat": 48.84319882807092,
+      "lng": 2.322257377279243
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 22,
+    "available_bike_stands": 19,
+    "available_bikes": 3,
+    "last_update": 1508689020000
+  },
+  {
+    "number": 6006,
+    "name": "06006 - NOTRE DAME DES CHAMPS",
+    "address": "41 RUE NOTRE DAME DES CHAMPS - 75006 PARIS",
+    "position": {
+      "lat": 48.84479928858768,
+      "lng": 2.329337755887181
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 19,
+    "available_bike_stands": 13,
+    "available_bikes": 6,
+    "last_update": 1508689195000
+  },
+  {
+    "number": 8031,
+    "name": "08031 - ROND POINT DES CHAMPS ELYSEES",
+    "address": "2 RUE JEAN MERMOZ - 75008 PARIS",
+    "position": {
+      "lat": 48.86970884795243,
+      "lng": 2.310714655374236
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "CLOSED",
+    "contract_name": "Paris",
+    "bike_stands": 33,
+    "available_bike_stands": 0,
+    "available_bikes": 0,
+    "last_update": 1508689219000
+  },
+  {
+    "number": 14120,
+    "name": "14120 - JOURDAN BARBOUX",
+    "address": "7 RUE HENRI BARBOUX - 75014 PARIS",
+    "position": {
+      "lat": 48.82195530645611,
+      "lng": 2.326806869905884
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 19,
+    "available_bikes": 1,
+    "last_update": 1508689434000
+  },
+  {
+    "number": 9007,
+    "name": "09007 - CONDORCET",
+    "address": "34 RUE CONDORCET - 75009 PARIS",
+    "position": {
+      "lat": 48.87983122511022,
+      "lng": 2.345396338986368
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 18,
+    "available_bikes": 2,
+    "last_update": 1508689045000
+  },
+  {
+    "number": 15040,
+    "name": "15040 - MONCLAR",
+    "address": "33 BIS RUE SAINT AMAND - 75015 PARIS",
+    "position": {
+      "lat": 48.83411714783768,
+      "lng": 2.308850015466539
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 36,
+    "available_bike_stands": 34,
+    "available_bikes": 2,
+    "last_update": 1508689371000
+  },
+  {
+    "number": 14013,
+    "name": "14013 - LIART AMIRAL MOUCHEZ",
+    "address": "1 RUE LIARD - 75014 PARIS",
+    "position": {
+      "lat": 48.82122766331853,
+      "lng": 2.342104214557966
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "CLOSED",
+    "contract_name": "Paris",
+    "bike_stands": 14,
+    "available_bike_stands": 0,
+    "available_bikes": 0,
+    "last_update": 1508689179000
+  },
+  {
+    "number": 42201,
+    "name": "42201 - NECKER (CHARENTON)",
+    "address": "RUE NECKER/ RUE DU PORT AUX LIONS - 94220 CHARENTON",
+    "position": {
+      "lat": 48.823963252286866,
+      "lng": 2.399998420132992
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 26,
+    "available_bike_stands": 4,
+    "available_bikes": 22,
+    "last_update": 1508689439000
+  },
+  {
+    "number": 11038,
+    "name": "11038 - TEMPLE REPUBLIQUE",
+    "address": "44 BD DU TEMPLE - 75011 PARIS",
+    "position": {
+      "lat": 48.865745077094815,
+      "lng": 2.365312950780227
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 45,
+    "available_bike_stands": 0,
+    "available_bikes": 45,
+    "last_update": 1508689242000
+  },
+  {
+    "number": 18019,
+    "name": "18019 - MONTCALM",
+    "address": "2 RUE MONTCALM - 75018 PARIS",
+    "position": {
+      "lat": 48.891877957087424,
+      "lng": 2.335447427689794
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 49,
+    "available_bike_stands": 46,
+    "available_bikes": 1,
+    "last_update": 1508689493000
+  },
+  {
+    "number": 901,
+    "name": "00901 -PORT SOLFERINO (STATION MOBILE)",
+    "address": "BERGES DE SEINE, SOUS LA PASSERELLE SENGHOR AU PORT DE SOLFERINO - 75007 PARIS",
+    "position": {
+      "lat": 48.86138,
+      "lng": 2.32442
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 5,
+    "available_bikes": 14,
+    "last_update": 1508689392000
+  },
+  {
+    "number": 15064,
+    "name": "15064 - JAVEL",
+    "address": "DEV 5 AVENUE EMILE ZOLA - 75015 PARIS",
+    "position": {
+      "lat": 48.84629491826888,
+      "lng": 2.278413912593796
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 45,
+    "available_bike_stands": 0,
+    "available_bikes": 45,
+    "last_update": 1508689114000
+  },
+  {
+    "number": 12031,
+    "name": "12031 - LAME",
+    "address": "49 RUE GABRIEL LAME - 75012 PARIS",
+    "position": {
+      "lat": 48.835138050689515,
+      "lng": 2.385478486564838
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 36,
+    "available_bike_stands": 1,
+    "available_bikes": 35,
+    "last_update": 1508689414000
+  },
+  {
+    "number": 13021,
+    "name": "13021 - BOUSSINGAULT - TOLBIAC",
+    "address": "55 RUE BOUSSINGAULT - 75013 PARIS",
+    "position": {
+      "lat": 48.82603516605852,
+      "lng": 2.342176808004326
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 47,
+    "available_bike_stands": 30,
+    "available_bikes": 17,
+    "last_update": 1508689415000
+  },
+  {
+    "number": 34002,
+    "name": "34002 - PERI (SAINT OUEN)",
+    "address": "128 AVENUE GABRIEL PERI / AVENUE DU CAPITAINE GLAMER - 93400 SAINT OUEN",
+    "position": {
+      "lat": 48.90259224163092,
+      "lng": 2.330513564840273
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 26,
+    "available_bike_stands": 0,
+    "available_bikes": 26,
+    "last_update": 1508688922000
+  },
+  {
+    "number": 31008,
+    "name": "31008 - VINCENNES (MONTREUIL)",
+    "address": "7 BIS RUE DE VINCENNES - 93100 MONTREUIL",
+    "position": {
+      "lat": 48.857702134021,
+      "lng": 2.43736866129498
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 56,
+    "available_bike_stands": 47,
+    "available_bikes": 9,
+    "last_update": 1508689533000
+  },
+  {
+    "number": 15062,
+    "name": "15062 - BOUCICAUT",
+    "address": "87 RUE DE LA CONVENTION - 75015 PARIS",
+    "position": {
+      "lat": 48.84214433157821,
+      "lng": 2.285862655943941
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 36,
+    "available_bike_stands": 8,
+    "available_bikes": 28,
+    "last_update": 1508689072000
+  },
+  {
+    "number": 4012,
+    "name": "04012 - ECOUFFES RIVOLI",
+    "address": "2 RUE TIRON - 75004 PARIS",
+    "position": {
+      "lat": 48.85579663740384,
+      "lng": 2.357907882135172
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 0,
+    "available_bikes": 27,
+    "last_update": 1508689502000
+  },
+  {
+    "number": 3011,
+    "name": "03011 - TURBIGO",
+    "address": "55 RUE TURBIGO - 75003 PARIS",
+    "position": {
+      "lat": 48.86558419108518,
+      "lng": 2.356278447633629
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 31,
+    "available_bike_stands": 11,
+    "available_bikes": 18,
+    "last_update": 1508689482000
+  },
+  {
+    "number": 18028,
+    "name": "18028 - VAUVENARGUES",
+    "address": "195 RUE CHAMPIONNET - 75018 PARIS",
+    "position": {
+      "lat": 48.89405725132698,
+      "lng": 2.332199335980013
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 33,
+    "available_bike_stands": 33,
+    "available_bikes": 0,
+    "last_update": 1508689453000
+  },
+  {
+    "number": 11113,
+    "name": "11113 - REPUBLIQUE FERRY",
+    "address": "FACE 140 BOULEVARD RICHARD LENOIR - 75011 PARIS",
+    "position": {
+      "lat": 48.86651607982108,
+      "lng": 2.369322530407524
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 56,
+    "available_bike_stands": 37,
+    "available_bikes": 17,
+    "last_update": 1508689436000
+  },
+  {
+    "number": 21015,
+    "name": "21015 - NATIONALE (BOULOGNE-BILLANCOURT)",
+    "address": "39 RUE NATIONALE - 92100 BOULOGNE-BILLANCOURT",
+    "position": {
+      "lat": 48.827600424128306,
+      "lng": 2.241835191324587
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 23,
+    "available_bike_stands": 8,
+    "available_bikes": 15,
+    "last_update": 1508689496000
+  },
+  {
+    "number": 42015,
+    "name": "42015 - JEAN FERRAT (IVRY)",
+    "address": "PLACE JEAN FERRAT - 94200 IVRY",
+    "position": {
+      "lat": 48.8185,
+      "lng": 2.37427
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 21,
+    "available_bikes": 4,
+    "last_update": 1508689033000
+  },
+  {
+    "number": 10040,
+    "name": "10040 - BELLEVILLE",
+    "address": "8 BOULEVARD DE LA VILETTE - 75010 PARIS",
+    "position": {
+      "lat": 48.87277815648997,
+      "lng": 2.376348394645978
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 32,
+    "available_bike_stands": 28,
+    "available_bikes": 3,
+    "last_update": 1508689535000
+  },
+  {
+    "number": 13026,
+    "name": "13026 - PLACE HENOCQUE VERSION 2",
+    "address": "21 RUE DU DR LERAY ET LANDOUZY - 75013 PARIS",
+    "position": {
+      "lat": 48.823316172177535,
+      "lng": 2.35433694417225
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 34,
+    "available_bike_stands": 25,
+    "available_bikes": 8,
+    "last_update": 1508689471000
+  },
+  {
+    "number": 19028,
+    "name": "19028 - PLACE DES FETES",
+    "address": "17 RUE DES FETES - 75019 PARIS",
+    "position": {
+      "lat": 48.876468339733144,
+      "lng": 2.392284629788502
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 20,
+    "available_bikes": 0,
+    "last_update": 1508689302000
+  },
+  {
+    "number": 10008,
+    "name": "10008 - CITE RIVERIN",
+    "address": "12 RUE CITE RIVERIN / ANGLE RUE DU CHATEAU D'EAU - 75010 PARIS",
+    "position": {
+      "lat": 48.8707649818776,
+      "lng": 2.35872446227434
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 18,
+    "available_bike_stands": 0,
+    "available_bikes": 17,
+    "last_update": 1508689262000
+  },
+  {
+    "number": 6015,
+    "name": "06015 - MAZET SAINT ANDRE DES ARTS",
+    "address": "10 RUE ANDRE MAZET - 75006 PARIS",
+    "position": {
+      "lat": 48.853751073467855,
+      "lng": 2.339113722899687
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 54,
+    "available_bike_stands": 1,
+    "available_bikes": 53,
+    "last_update": 1508689009000
+  },
+  {
+    "number": 43006,
+    "name": "43006 - MINIMES (VINCENNES)",
+    "address": "30 AVENUE DES MINIMES - 94300 VINCENNES",
+    "position": {
+      "lat": 48.841486856300165,
+      "lng": 2.430793451133684
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 11,
+    "available_bikes": 17,
+    "last_update": 1508689302000
+  },
+  {
+    "number": 15054,
+    "name": "15054 - CHANDON",
+    "address": "293 RUE LECOURBE - 75015 PARIS",
+    "position": {
+      "lat": 48.83797034201205,
+      "lng": 2.287582307043615
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 19,
+    "available_bike_stands": 0,
+    "available_bikes": 19,
+    "last_update": 1508689238000
+  },
+  {
+    "number": 11043,
+    "name": "11043 - CIRQUE D HIVER",
+    "address": "PLACE PASDELOUP - 75011 PARIS",
+    "position": {
+      "lat": 48.862650300140295,
+      "lng": 2.367053490449912
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 21,
+    "available_bike_stands": 6,
+    "available_bikes": 15,
+    "last_update": 1508689491000
+  },
+  {
+    "number": 5024,
+    "name": "05024 - PLACE MONGE",
+    "address": "4 RUE DOLOMIEU - 75005 PARIS",
+    "position": {
+      "lat": 48.84273504298964,
+      "lng": 2.352472437223356
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 21,
+    "available_bike_stands": 5,
+    "available_bikes": 16,
+    "last_update": 1508411137000
+  },
+  {
+    "number": 15036,
+    "name": "15036 - LAMBERT",
+    "address": "102 RUE DE LA CROIX NIVERT - 75015 PARIS",
+    "position": {
+      "lat": 48.84307638694992,
+      "lng": 2.29514141310447
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 47,
+    "available_bike_stands": 6,
+    "available_bikes": 41,
+    "last_update": 1508689523000
+  },
+  {
+    "number": 42504,
+    "name": "42504 - MALON (GENTILLY)",
+    "address": "FACE 59 RUE BENOIT MALON - 94250 GENTILLY",
+    "position": {
+      "lat": 48.81444017962381,
+      "lng": 2.341070654172592
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 30,
+    "available_bike_stands": 27,
+    "available_bikes": 2,
+    "last_update": 1508689327000
+  },
+  {
+    "number": 6107,
+    "name": "06107 - CHERCHE MIDI",
+    "address": "27 RUE DU CHERCHE MIDI 75006 PARIS",
+    "position": {
+      "lat": 48.8502410871957,
+      "lng": 2.32755154921057
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 23,
+    "available_bike_stands": 13,
+    "available_bikes": 10,
+    "last_update": 1508689498000
+  },
+  {
+    "number": 17029,
+    "name": "17029 - PLACE AIMÉE MAILLART",
+    "address": "29 RUE PIERRE DEMOURS - 75017 PARIS",
+    "position": {
+      "lat": 48.88141110121936,
+      "lng": 2.29482820074442
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 36,
+    "available_bike_stands": 20,
+    "available_bikes": 16,
+    "last_update": 1508689030000
+  },
+  {
+    "number": 13050,
+    "name": "13050 - QUAI PANHARD ET LEVASSOR",
+    "address": "23 QUAI PANHARD ET LEVASSOR - 75013 PARIS",
+    "position": {
+      "lat": 48.828369893809565,
+      "lng": 2.384440354604646
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 59,
+    "available_bike_stands": 15,
+    "available_bikes": 44,
+    "last_update": 1508689240000
+  },
+  {
+    "number": 14029,
+    "name": "14029 - GERGOVIE VERCINGETORIX",
+    "address": "112 RUE VERCINGETORIX - 75014 PARIS",
+    "position": {
+      "lat": 48.83425924993043,
+      "lng": 2.313391647113252
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 52,
+    "available_bike_stands": 50,
+    "available_bikes": 1,
+    "last_update": 1508658744000
+  },
+  {
+    "number": 10029,
+    "name": "10029 - PLACE DE ROUBAIX",
+    "address": "39 RUE DE DUNKERQUE - 75010 PARIS",
+    "position": {
+      "lat": 48.88072668576597,
+      "lng": 2.351464333201903
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 23,
+    "available_bike_stands": 22,
+    "available_bikes": 0,
+    "last_update": 1508689535000
+  },
+  {
+    "number": 10015,
+    "name": "10015 - RECOLLETS",
+    "address": "46 RUE LUCIE SAMPAIX - 75010 PARIS",
+    "position": {
+      "lat": 48.874112916506824,
+      "lng": 2.362498528696257
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 46,
+    "available_bike_stands": 40,
+    "available_bikes": 5,
+    "last_update": 1507542161000
+  },
+  {
+    "number": 6029,
+    "name": "06029 - VAUGIRARD PRINCE",
+    "address": "FACE 1 RUE DE VAUGIRARD - 75006 PARIS",
+    "position": {
+      "lat": 48.84892295818577,
+      "lng": 2.341040508705961
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 24,
+    "available_bike_stands": 18,
+    "available_bikes": 6,
+    "last_update": 1508689479000
+  },
+  {
+    "number": 12151,
+    "name": "12151 - GARE DE LYON",
+    "address": "GARE DE LYON - 75012 PARIS",
+    "position": {
+      "lat": 48.8455150897939,
+      "lng": 2.3726498446286
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 60,
+    "available_bike_stands": 4,
+    "available_bikes": 48,
+    "last_update": 1508689523000
+  },
+  {
+    "number": 19114,
+    "name": "19114 - MANIN SECRETAN",
+    "address": "31 RUE MANIN - 75019 PARIS",
+    "position": {
+      "lat": 48.87927519569598,
+      "lng": 2.378637021920256
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 18,
+    "available_bikes": 2,
+    "last_update": 1508689064000
+  },
+  {
+    "number": 8025,
+    "name": "08025 - MIROMESNIL",
+    "address": "39 RUE DE MIROMESNIL - 75008 PARIS",
+    "position": {
+      "lat": 48.873760472140056,
+      "lng": 2.315876308346374
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 33,
+    "available_bike_stands": 22,
+    "available_bikes": 10,
+    "last_update": 1508689060000
+  },
+  {
+    "number": 14033,
+    "name": "14033 - DAGUERRE GASSENDI",
+    "address": "31 RUE FROIDEVAUX - 75014 PARIS",
+    "position": {
+      "lat": 48.8356804441726,
+      "lng": 2.3282908220517
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "CLOSED",
+    "contract_name": "Paris",
+    "bike_stands": 38,
+    "available_bike_stands": 0,
+    "available_bikes": 0,
+    "last_update": 1508689013000
+  },
+  {
+    "number": 22011,
+    "name": "22011 - MONTROSIER (NEUILLY)",
+    "address": "7 RUE MONTROSIER - 92200 NEUILLY",
+    "position": {
+      "lat": 48.87944136963256,
+      "lng": 2.278535717122779
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 3,
+    "available_bikes": 22,
+    "last_update": 1508689298000
+  },
+  {
+    "number": 16110,
+    "name": "16110 - OCTAVE FEUILLET",
+    "address": "4-6 RUE OCTAVE FEUILLET - 75016 PARIS",
+    "position": {
+      "lat": 48.8609983661382,
+      "lng": 2.27312852713658
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 21,
+    "available_bike_stands": 12,
+    "available_bikes": 9,
+    "last_update": 1508689477000
+  },
+  {
+    "number": 16030,
+    "name": "16030 - MIRABEAU",
+    "address": "4 PLACE DE BARCELONE - 75016 PARIS",
+    "position": {
+      "lat": 48.84766571002937,
+      "lng": 2.273556264965371
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "CLOSED",
+    "contract_name": "Paris",
+    "bike_stands": 55,
+    "available_bike_stands": 0,
+    "available_bikes": 0,
+    "last_update": 1508689339000
+  },
+  {
+    "number": 15049,
+    "name": "15049 - PORTE DE VERSAILLES",
+    "address": "2 AVENUE ERNEST RENAN - 75015 PARIS",
+    "position": {
+      "lat": 48.83217944426036,
+      "lng": 2.287122261982559
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 23,
+    "available_bike_stands": 2,
+    "available_bikes": 21,
+    "last_update": 1508689423000
+  },
+  {
+    "number": 19012,
+    "name": "19012 - LALLY TOLLENDAL",
+    "address": "5 RUE LALLY TOLLENDAL - 75019 PARIS",
+    "position": {
+      "lat": 48.88270064422199,
+      "lng": 2.37469338894231
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 60,
+    "available_bike_stands": 36,
+    "available_bikes": 22,
+    "last_update": 1508689367000
+  },
+  {
+    "number": 15053,
+    "name": "15053 - LECOURBE",
+    "address": "250 RUE LECOURBE - 75015 PARIS",
+    "position": {
+      "lat": 48.83922209776229,
+      "lng": 2.291540507948998
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 45,
+    "available_bike_stands": 28,
+    "available_bikes": 15,
+    "last_update": 1508689330000
+  },
+  {
+    "number": 18027,
+    "name": "18027 - DAMREMONT ORDENER",
+    "address": "102 RUE DAMREMONT - 75018 PARIS",
+    "position": {
+      "lat": 48.893400392981874,
+      "lng": 2.336266523912805
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 28,
+    "available_bikes": 0,
+    "last_update": 1508689125000
+  },
+  {
+    "number": 6103,
+    "name": "06103 - MEZIERES RENNES",
+    "address": "16 RUE DE MEZIERES - 75006 PARIS",
+    "position": {
+      "lat": 48.850297010217595,
+      "lng": 2.330446820277252
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 55,
+    "available_bike_stands": 30,
+    "available_bikes": 25,
+    "last_update": 1508689486000
+  },
+  {
+    "number": 42006,
+    "name": "42006 - BROSSOLETTE (IVRY)",
+    "address": "23 RUE PIERRE BROSSOLETTE - 94200 IVRY",
+    "position": {
+      "lat": 48.816929720561234,
+      "lng": 2.381460319184223
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 14,
+    "available_bikes": 6,
+    "last_update": 1508689387000
+  },
+  {
+    "number": 17011,
+    "name": "17011 - PORTE DE CLICHY FRAGONARD",
+    "address": "4 RUE FRAGONARD - 75017 PARIS",
+    "position": {
+      "lat": 48.894151383293696,
+      "lng": 2.314678001115381
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 54,
+    "available_bike_stands": 21,
+    "available_bikes": 27,
+    "last_update": 1508689527000
+  },
+  {
+    "number": 6020,
+    "name": "06020 - SAINT MICHEL DANTON",
+    "address": "2 RUE DANTON - 75006 PARIS",
+    "position": {
+      "lat": 48.85293041059132,
+      "lng": 2.342657392891206
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 35,
+    "available_bike_stands": 4,
+    "available_bikes": 30,
+    "last_update": 1508689315000
+  },
+  {
+    "number": 11017,
+    "name": "11017 - ALEXANDRE DUMAS",
+    "address": "FACE 77 BOULEVARD DE CHARONNE - 75011 PARIS",
+    "position": {
+      "lat": 48.854176040414856,
+      "lng": 2.396093495321842
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 46,
+    "available_bike_stands": 45,
+    "available_bikes": 1,
+    "last_update": 1508689185000
+  },
+  {
+    "number": 14111,
+    "name": "14111 - DENFERT-ROCHEREAU CASSINI",
+    "address": "16 RUE CASSINI 75014 PARIS",
+    "position": {
+      "lat": 48.8375492921975,
+      "lng": 2.33598303046652
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 24,
+    "available_bike_stands": 5,
+    "available_bikes": 19,
+    "last_update": 1508689528000
+  },
+  {
+    "number": 11032,
+    "name": "11032 - METALLOS",
+    "address": "81 BIS RUE JP TIMBAUD - 75011 PARIS",
+    "position": {
+      "lat": 48.86793796309799,
+      "lng": 2.377885515684799
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 48,
+    "available_bike_stands": 39,
+    "available_bikes": 9,
+    "last_update": 1508689528000
+  },
+  {
+    "number": 21113,
+    "name": "21113 - PETIT (CLICHY)",
+    "address": "2 RUE PETIT - 92110 CLICHY",
+    "position": {
+      "lat": 48.8993483537726,
+      "lng": 2.29662648341284
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 4,
+    "available_bikes": 20,
+    "last_update": 1508689410000
+  },
+  {
+    "number": 11044,
+    "name": "11044 - RICHARD LENOIR VOLTAIRE NORD",
+    "address": "FACE 104 BOULEVARD RICHARD LENOIR - 75011 PARIS",
+    "position": {
+      "lat": 48.86343198963591,
+      "lng": 2.37120861796012
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 23,
+    "available_bike_stands": 1,
+    "available_bikes": 22,
+    "last_update": 1508689374000
+  },
+  {
+    "number": 3001,
+    "name": "03001 - CHEMIN VERT BEAUMARCHAIS",
+    "address": "69 BOULEVARD BEAUMARCHAIS - 75003 PARIS",
+    "position": {
+      "lat": 48.85804405694242,
+      "lng": 2.367832659296124
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 52,
+    "available_bike_stands": 8,
+    "available_bikes": 44,
+    "last_update": 1508689328000
+  },
+  {
+    "number": 20133,
+    "name": "20133 - RASSELINS",
+    "address": "2 RUE DES RASSELINS - 75020 PARIS",
+    "position": {
+      "lat": 48.85352868594103,
+      "lng": 2.409615362775532
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 27,
+    "available_bike_stands": 22,
+    "available_bikes": 4,
+    "last_update": 1508689290000
+  },
+  {
+    "number": 13047,
+    "name": "13047 - BOUTROUX VITRY",
+    "address": "1 AVENUE BOUTROUX - 75013 PARIS",
+    "position": {
+      "lat": 48.822632842232245,
+      "lng": 2.377738433657617
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 49,
+    "available_bike_stands": 2,
+    "available_bikes": 47,
+    "last_update": 1508689402000
+  },
+  {
+    "number": 34009,
+    "name": "34009 - MAAR (SAINT OUEN)",
+    "address": "RUE DORA MAAR / GARE RER - 93400 SAINT OUEN",
+    "position": {
+      "lat": 48.905269629379745,
+      "lng": 2.322171248688672
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 26,
+    "available_bike_stands": 5,
+    "available_bikes": 21,
+    "last_update": 1508689138000
+  },
+  {
+    "number": 11001,
+    "name": "11001 - BASTILLE RICHARD LENOIR",
+    "address": "2 BOULEVARD RICHARD LENOIR - 75011 PARIS",
+    "position": {
+      "lat": 48.85384822621097,
+      "lng": 2.369701488217501
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 54,
+    "available_bike_stands": 1,
+    "available_bikes": 52,
+    "last_update": 1508689506000
+  },
+  {
+    "number": 3007,
+    "name": "03007 - ARCHIVES PASTOURELLE",
+    "address": "67 RUE DES ARCHIVES - 75003 PARIS",
+    "position": {
+      "lat": 48.86240121191442,
+      "lng": 2.359447031946381
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 5,
+    "available_bikes": 22,
+    "last_update": 1508689402000
+  },
+  {
+    "number": 905,
+    "name": "00905 - CONCORDE/BERGES DE SEINE (STATION MOBILE)",
+    "address": "BERGES DE SEINE, BAS DE LA BRETELLE AVAL CONCORDE - 75007 PARIS",
+    "position": {
+      "lat": 48.863147,
+      "lng": 2.316318
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 12,
+    "available_bikes": 8,
+    "last_update": 1508689527000
+  },
+  {
+    "number": 15115,
+    "name": "15115 - VAUGIRARD",
+    "address": "25-31 BOULEVARD DE VAUGIRARD - 75015 PARIS",
+    "position": {
+      "lat": 48.841325259808,
+      "lng": 2.31829155159271
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 30,
+    "available_bike_stands": 22,
+    "available_bikes": 8,
+    "last_update": 1508689437000
+  },
+  {
+    "number": 5018,
+    "name": "05018 - MUTUALITE",
+    "address": "20 RUE MONGE - 75005 PARIS",
+    "position": {
+      "lat": 48.84838576471672,
+      "lng": 2.350169939020645
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 37,
+    "available_bike_stands": 0,
+    "available_bikes": 37,
+    "last_update": 1508689519000
+  },
+  {
+    "number": 35006,
+    "name": "35006 - DELIZY (PANTIN)",
+    "address": "FACE AU 23 RUE DELIZY - 93500 PANTIN",
+    "position": {
+      "lat": 48.89633193166097,
+      "lng": 2.409087652725976
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 22,
+    "available_bike_stands": 10,
+    "available_bikes": 12,
+    "last_update": 1508406734000
+  },
+  {
+    "number": 4107,
+    "name": "04107 - BEAUMARCHAIS",
+    "address": "27 BOULEVARD BEAUMARCHAIS - 75004 PARIS",
+    "position": {
+      "lat": 48.855501357701705,
+      "lng": 2.368429069929045
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 18,
+    "available_bike_stands": 5,
+    "available_bikes": 12,
+    "last_update": 1508689318000
+  },
+  {
+    "number": 17050,
+    "name": "17050 - BATIGNOLLES",
+    "address": "1 RUE DES BATIGNOLLES - 75017 PARIS",
+    "position": {
+      "lat": 48.88310390458221,
+      "lng": 2.323834749088381
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 17,
+    "available_bike_stands": 17,
+    "available_bikes": 0,
+    "last_update": 1508689401000
+  },
+  {
+    "number": 5013,
+    "name": "05013 - ULM ERASME",
+    "address": "13 RUE ERASME - 75005 PARIS",
+    "position": {
+      "lat": 48.8425479496716,
+      "lng": 2.344596649931604
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 20,
+    "available_bike_stands": 16,
+    "available_bikes": 3,
+    "last_update": 1508689388000
+  },
+  {
+    "number": 13001,
+    "name": "13001 - PORT ROYAL",
+    "address": "51 BOULEVARD PORT ROYAL - 75013 PARIS",
+    "position": {
+      "lat": 48.83772792097816,
+      "lng": 2.344664043426302
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 18,
+    "available_bike_stands": 12,
+    "available_bikes": 6,
+    "last_update": 1508689108000
+  },
+  {
+    "number": 13103,
+    "name": "13103 - SAINT MARCEL",
+    "address": "89 BOULEVARD DE L'HOPITAL - 75013 PARIS",
+    "position": {
+      "lat": 48.83772768745433,
+      "lng": 2.360460336476805
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 50,
+    "available_bike_stands": 41,
+    "available_bikes": 9,
+    "last_update": 1508689471000
+  },
+  {
+    "number": 31704,
+    "name": "31704 - HORNET (BAGNOLET)",
+    "address": "FACE AU 1 RUE JEANNE HORNET - 93170 BAGNOLET",
+    "position": {
+      "lat": 48.873929200033544,
+      "lng": 2.427933579778934
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 28,
+    "available_bike_stands": 27,
+    "available_bikes": 1,
+    "last_update": 1508689105000
+  },
+  {
+    "number": 4103,
+    "name": "04103 - HOTEL DE VILLE",
+    "address": "1 RUE DES ARCHIVES - 75004 PARIS",
+    "position": {
+      "lat": 48.857203787697095,
+      "lng": 2.353976273618783
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 1,
+    "available_bikes": 24,
+    "last_update": 1508689441000
+  }
+]

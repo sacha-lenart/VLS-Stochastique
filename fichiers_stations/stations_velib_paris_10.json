@@ -1,0 +1,172 @@
+[
+  {
+    "number": 31705,
+    "name": "31705 - CHAMPEAUX (BAGNOLET)",
+    "address": "RUE DES CHAMPEAUX (PRES DE LA GARE ROUTIERE) - 93170 BAGNOLET",
+    "position": {
+      "lat": 48.8645278209514,
+      "lng": 2.416170724425901
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 50,
+    "available_bike_stands": 48,
+    "available_bikes": 2,
+    "last_update": 1508689504000
+  },
+  {
+    "number": 10042,
+    "name": "10042 - POISSONNIÈRE - ENGHIEN",
+    "address": "52 RUE D'ENGHIEN / ANGLE RUE DU FAUBOURG POISSONIERE - 75010 PARIS",
+    "position": {
+      "lat": 48.87242006305313,
+      "lng": 2.348395236282807
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 33,
+    "available_bike_stands": 21,
+    "available_bikes": 12,
+    "last_update": 1508689419000
+  },
+  {
+    "number": 8020,
+    "name": "08020 - METRO ROME",
+    "address": "74 BOULEVARD DES BATIGNOLLES - 75008 PARIS",
+    "position": {
+      "lat": 48.882148945631904,
+      "lng": 2.319860054774211
+    },
+    "banking": true,
+    "bonus": true,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 44,
+    "available_bike_stands": 43,
+    "available_bikes": 1,
+    "last_update": 1508689535000
+  },
+  {
+    "number": 35014,
+    "name": "35014 - DE GAULLE (PANTIN)",
+    "address": "139 AVENUE JEAN LOLIVE / MAIL CHARLES DE GAULLE - 93500 PANTIN",
+    "position": {
+      "lat": 48.893268664697416,
+      "lng": 2.412715733388685
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 25,
+    "available_bike_stands": 15,
+    "available_bikes": 3,
+    "last_update": 1508689445000
+  },
+  {
+    "number": 20040,
+    "name": "20040 - PARC DE BELLEVILLE",
+    "address": "57 & 36 RUE JULIEN LACROIX - 75020 PARIS",
+    "position": {
+      "lat": 48.870393671603765,
+      "lng": 2.384222472712587
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 26,
+    "available_bike_stands": 24,
+    "available_bikes": 2,
+    "last_update": 1508689480000
+  },
+  {
+    "number": 28002,
+    "name": "28002 - SOLJENITSYNE (PUTEAUX)",
+    "address": "BOULEVARD ALEXANDRE SOLJENITSYNE - 92800 PUTEAUX",
+    "position": {
+      "lat": 48.884478,
+      "lng": 2.24772065
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 60,
+    "available_bike_stands": 11,
+    "available_bikes": 49,
+    "last_update": 1508689450000
+  },
+  {
+    "number": 15111,
+    "name": "15111 - SERRES",
+    "address": "48 RUE OLIVIER DE SERRES - 75015 PARIS",
+    "position": {
+      "lat": 48.834658862792736,
+      "lng": 2.295789480315903
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 24,
+    "available_bike_stands": 16,
+    "available_bikes": 8,
+    "last_update": 1508689428000
+  },
+  {
+    "number": 12124,
+    "name": "12124 - PYRAMIDE ARTILLERIE",
+    "address": "ROUTE DE L'ARTILLERIE - 75012 PARIS",
+    "position": {
+      "lat": 48.839041145908176,
+      "lng": 2.437655339082955
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 55,
+    "available_bike_stands": 31,
+    "available_bikes": 24,
+    "last_update": 1508689490000
+  },
+  {
+    "number": 9021,
+    "name": "09021 - SAINT GEORGES",
+    "address": "56 RUE SAINT GEORGES - 75009 PARIS",
+    "position": {
+      "lat": 48.877872278317966,
+      "lng": 2.337446804203667
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 22,
+    "available_bike_stands": 12,
+    "available_bikes": 10,
+    "last_update": 1508689356000
+  },
+  {
+    "number": 7007,
+    "name": "07007 - MUSÉE D'ORSAY",
+    "address": "62 RUE DE LILLE - 75007 PARIS",
+    "position": {
+      "lat": 48.85971010443503,
+      "lng": 2.325809024625026
+    },
+    "banking": true,
+    "bonus": false,
+    "status": "OPEN",
+    "contract_name": "Paris",
+    "bike_stands": 65,
+    "available_bike_stands": 1,
+    "available_bikes": 64,
+    "last_update": 1508689433000
+  }
+]
